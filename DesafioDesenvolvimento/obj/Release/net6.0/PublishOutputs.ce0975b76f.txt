@@ -1,0 +1,16 @@
+C:\Users\lucas\Desktop\Projeto\DesafioDesenvolvimento\DesafioDesenvolvimento\obj\Release\net6.0\PubTmp\Out\DesafioDesenvolvimento.exe
+C:\Users\lucas\Desktop\Projeto\DesafioDesenvolvimento\DesafioDesenvolvimento\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\lucas\Desktop\Projeto\DesafioDesenvolvimento\DesafioDesenvolvimento\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\lucas\Desktop\Projeto\DesafioDesenvolvimento\DesafioDesenvolvimento\obj\Release\net6.0\PubTmp\Out\json.json
+C:\Users\lucas\Desktop\Projeto\DesafioDesenvolvimento\DesafioDesenvolvimento\obj\Release\net6.0\PubTmp\Out\DesafioDesenvolvimento.dll
+C:\Users\lucas\Desktop\Projeto\DesafioDesenvolvimento\DesafioDesenvolvimento\obj\Release\net6.0\PubTmp\Out\DesafioDesenvolvimento.deps.json
+C:\Users\lucas\Desktop\Projeto\DesafioDesenvolvimento\DesafioDesenvolvimento\obj\Release\net6.0\PubTmp\Out\DesafioDesenvolvimento.runtimeconfig.json
+C:\Users\lucas\Desktop\Projeto\DesafioDesenvolvimento\DesafioDesenvolvimento\obj\Release\net6.0\PubTmp\Out\DesafioDesenvolvimento.pdb
+C:\Users\lucas\Desktop\Projeto\DesafioDesenvolvimento\DesafioDesenvolvimento\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\lucas\Desktop\Projeto\DesafioDesenvolvimento\DesafioDesenvolvimento\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\lucas\Desktop\Projeto\DesafioDesenvolvimento\DesafioDesenvolvimento\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\lucas\Desktop\Projeto\DesafioDesenvolvimento\DesafioDesenvolvimento\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\lucas\Desktop\Projeto\DesafioDesenvolvimento\DesafioDesenvolvimento\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.Bson.dll
+C:\Users\lucas\Desktop\Projeto\DesafioDesenvolvimento\DesafioDesenvolvimento\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lucas\Desktop\Projeto\DesafioDesenvolvimento\DesafioDesenvolvimento\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lucas\Desktop\Projeto\DesafioDesenvolvimento\DesafioDesenvolvimento\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
